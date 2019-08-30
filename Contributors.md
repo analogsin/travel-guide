@@ -79,3 +79,4 @@
 - [@ruchirV](https://github.com/ruchirV)
 
 - [@Arjun0o](https://github.com/Arjun0o)
+- [@Analogsin](https://github.com/Analogsin)
